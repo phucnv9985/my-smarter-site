@@ -1,0 +1,17 @@
+<html>
+    <head>
+        <title>Practice</title>
+    </head>
+    <body>
+        <!-- paragraph tag is p -->
+        <!-- The browser ignores carriage returns.-->
+        <!-- By default, browsers separate paragraphs by adding line between them. -->
+        <p>Mark Myers</p>
+        <p>That's my name.</p>
+        <!-- Heading tag is h1-h6. You should include an h1 heading, because search engines look for it.-->
+        <h1>This is the largest heading<h1>
+        <!-- Break tag is br-->
+        <h3>All the king's horses<br>and all the king's men<br>couldn't put Humpty<br> together again.<h3>
+        <!-- The browser displays each heading on its own line.-->
+    </body>
+</hmlt>
